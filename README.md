@@ -1,9 +1,7 @@
-# vuexfire-admin
-A Vue.js 2 admin app, based on vue-admin, using vuex, vuexfire, vue-router and firebase as the backend.
+# HidroAdmin
+A Vue.js 2 admin app, based on vue-admin, using vuex, vuexfire, vue-router and Firebase as the backend.
 
 This project aims to be a template for using Firebase as a backend, and vue-admin as a frontend.
-
-A lot of work has been done in a private repository and I'm currently in the progress of migrating this across to this public repo.
 
 ### Current features developed:
 
