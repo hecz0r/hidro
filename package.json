@@ -42,7 +42,7 @@
     "@websanova/vue-auth": "^2.8.2-beta",
     "animate.css": "3.5.2",
     "animejs": "^2.0.1",
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "bulma": "^0.5.3",
     "express": "^4.16.4",
     "firebase": "^4.1.3",
